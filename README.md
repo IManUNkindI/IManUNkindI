@@ -1,172 +1,238 @@
-# ¡Hola! 👋 Soy Andrés Bernal
+👋 ¡Hola! Soy Andrés Bernal
 
-## Sobre mí
+💡 Sobre mí
 
-Soy estudiante de Ingeniería con un fuerte interés por los sistemas embebidos, la electrónica, el desarrollo de software y el procesamiento digital de señales.
+Soy estudiante de Ingeniería con una fuerte pasión por la tecnología, el desarrollo de software, los sistemas embebidos, la automatización industrial y la ciberseguridad.
 
-Durante mi formación he buscado ir más allá de los proyectos académicos, desarrollando soluciones completas donde intervienen el diseño de hardware, la programación de microcontroladores, el desarrollo de interfaces gráficas, el análisis de datos y la automatización.
+Durante mi formación académica he buscado ir más allá de los proyectos universitarios, desarrollando soluciones que integran hardware, software y análisis de datos. Me interesa comprender cómo funcionan los sistemas desde sus fundamentos, por lo que disfruto trabajar tanto con programación de bajo nivel como con aplicaciones de alto nivel capaces de interactuar con dispositivos físicos.
 
-Me gusta comprender cómo funcionan las tecnologías desde su nivel más bajo, por lo que gran parte de mis proyectos se desarrollan utilizando programación de bajo nivel (Bare Metal) antes que librerías de alto nivel.
+Considero que la ingeniería no consiste únicamente en escribir código, sino en diseñar soluciones robustas, escalables y bien documentadas que puedan ser utilizadas y mantenidas por otros desarrolladores.
 
-Actualmente continúo ampliando mis conocimientos mediante proyectos personales y colaborativos, siempre buscando escribir código limpio, bien documentado y fácil de mantener.
-
----
-
-# Áreas de interés
-
-- Sistemas Embebidos
-- Programación en C y C++
-- Python
-- Electrónica Digital
-- Procesamiento Digital de Señales
-- Automatización y Control
-- Instrumentación
-- Software Libre
-- Linux
-- Ciencia de Datos aplicada a Ingeniería
+Actualmente continúo fortaleciendo mis conocimientos mediante proyectos personales, cursos especializados y el desarrollo de nuevas herramientas, con el objetivo de seguir creciendo como ingeniero y contribuir activamente a la comunidad Open Source.
 
 ---
 
-# Tecnologías
+🎯 Áreas de interés
 
-### Lenguajes
+- ⚙️ Sistemas Embebidos
+- 🤖 Automatización Industrial
+- 💻 Desarrollo de Software
+- 📱 Desarrollo de Aplicaciones Móviles
+- 🖥️ Desarrollo de Aplicaciones para Windows
+- 🗄️ Bases de Datos
+- 📡 Procesamiento Digital de Señales
+- 🔐 Ciberseguridad
+- 📊 Instrumentación
+- 🎛️ Control Automático
+- 🐧 Linux y Software Libre
+
+---
+
+🛠 Tecnologías y herramientas
+
+Lenguajes de programación
 
 - C
 - C++
 - Python
 - MATLAB
+- SQL
 
-### Microcontroladores
+Sistemas Embebidos
 
 - STM32
 - Programación Bare Metal
+- GPIO
 - Timers
 - ADC
 - DAC
-- GPIO
 - UART
 - I2C
 - PWM
 - Interrupciones
+- Interfaces con sensores y encoders
 
-### Software
+Automatización Industrial
 
-- Keil uVision
-- MATLAB & Simulink
+- PLC
+- Programación Ladder
+- Automatización de procesos industriales
+- Integración de sensores y actuadores
+
+Desarrollo de Software
+
+- Python
+- Tkinter
+- Desarrollo de aplicaciones para Windows
+- Desarrollo de aplicaciones móviles
+- Diseño de interfaces gráficas
+- Integración entre hardware y software
+
+Bases de Datos
+
+- SQLite
+- Diseño de bases de datos relacionales
+- Consultas SQL
+- Persistencia e integración de información
+
+Ingeniería y desarrollo
+
+- MATLAB
+- Simulink
 - Git
 - GitHub
 - Linux
 - Visual Studio Code
+- Keil uVision
 
 ---
 
-# Experiencia adquirida durante mi carrera
+🚀 Experiencia adquirida durante mi formación
 
-A lo largo de la universidad he desarrollado proyectos relacionados con:
+⚙️ Sistemas Embebidos
 
-### Sistemas Embebidos
-
-- Desarrollo de aplicaciones para microcontroladores STM32.
-- Configuración de periféricos mediante registros.
-- Adquisición de señales analógicas.
-- Generación de señales mediante DAC.
-- Comunicación I2C.
-- Manejo de temporizadores.
-- Manejo de interrupciones.
-- Interfaces con sensores.
+- Desarrollo de aplicaciones sobre microcontroladores STM32.
+- Programación Bare Metal mediante acceso directo a registros.
+- Configuración y manejo de periféricos.
+- Conversión Analógica-Digital (ADC).
+- Conversión Digital-Analógica (DAC).
+- Comunicación mediante UART, I2C y PWM.
+- Configuración de temporizadores e interrupciones.
+- Interfaces con sensores analógicos y digitales.
+- Sistemas de adquisición de datos.
 - Procesamiento de señales provenientes de encoders.
 
-### Procesamiento Digital de Señales
+---
+
+🤖 Automatización Industrial
+
+- Programación de PLC.
+- Desarrollo de lógica Ladder.
+- Automatización de procesos.
+- Integración entre dispositivos industriales.
+- Desarrollo de soluciones de monitoreo y control.
+
+---
+
+📡 Procesamiento Digital de Señales
 
 - Transformada Rápida de Fourier (FFT).
 - Transformada de Hilbert.
 - Diseño de filtros FIR e IIR.
 - Wavelets.
 - Análisis espectral.
-- Procesamiento y análisis de señales biomédicas e industriales.
-
-### Desarrollo de Software
-
-- Aplicaciones de escritorio en Python.
-- Interfaces gráficas utilizando Tkinter.
-- Integración entre hardware y software.
-- Desarrollo de aplicaciones para adquisición y visualización de datos.
-
-### Simulación y Modelado
-
-- Modelado matemático.
-- Simulación de sistemas dinámicos.
-- Implementación de algoritmos de control.
-- Simulaciones en MATLAB y Simulink.
+- Simulación y validación de algoritmos.
+- Procesamiento de señales biomédicas e industriales.
 
 ---
 
-# Algunos proyectos
+💻 Desarrollo de Software
 
-Entre los proyectos que he desarrollado se encuentran:
+- Desarrollo de aplicaciones de escritorio para Windows.
+- Diseño de interfaces gráficas.
+- Integración entre aplicaciones y hardware.
+- Automatización mediante software.
+- Herramientas para adquisición y visualización de datos.
 
-- Sistema de adquisición de datos utilizando STM32.
+---
+
+📱 Desarrollo de Aplicaciones Móviles
+
+- Desarrollo de aplicaciones móviles.
+- Diseño de interfaces enfocadas en la experiencia del usuario.
+- Comunicación entre aplicaciones y sistemas externos.
+
+---
+
+🗄️ Bases de Datos
+
+- Diseño de modelos relacionales.
+- Gestión de información mediante SQLite.
+- Integración de bases de datos con aplicaciones.
+- Persistencia, consulta y administración de información.
+
+---
+
+🔐 Ciberseguridad
+
+Actualmente me encuentro finalizando un curso de Ciberseguridad con el propósito de fortalecer mis conocimientos en:
+
+- Seguridad informática.
+- Buenas prácticas de desarrollo seguro.
+- Identificación de vulnerabilidades.
+- Protección de sistemas y aplicaciones.
+- Principios de seguridad en redes y software.
+
+Mi objetivo es aplicar estos conocimientos al desarrollo de soluciones más seguras, especialmente en sistemas embebidos, aplicaciones y automatización industrial.
+
+---
+
+📂 Proyectos
+
+A lo largo de mi carrera he desarrollado proyectos relacionados con:
+
+- Sistemas de adquisición de datos utilizando STM32.
 - Aplicaciones para control y monitoreo de sensores.
-- Interfaces gráficas para sistemas de ingeniería.
-- Procesamiento digital de señales utilizando MATLAB.
-- Herramientas desarrolladas en Python para automatización y análisis.
+- Interfaces gráficas para ingeniería.
+- Aplicaciones de escritorio para Windows.
+- Aplicaciones móviles.
+- Sistemas automatizados mediante PLC.
+- Integración de bases de datos.
+- Procesamiento digital de señales.
+- Herramientas para automatización y análisis de información.
 
-Con el tiempo estaré publicando y documentando cada uno de estos proyectos en este perfil.
-
----
-
-# Filosofía de desarrollo
-
-Me interesa desarrollar software que sea:
-
-- Claro
-- Modular
-- Escalable
-- Bien documentado
-- Fácil de mantener
-- Reproducible
-
-Considero que una buena documentación es tan importante como el propio código.
+Gradualmente iré publicando estos proyectos en este perfil junto con su documentación técnica, diagramas, manuales y código fuente.
 
 ---
 
-# Actualmente aprendiendo
+🌱 Actualmente aprendiendo
 
-Siempre estoy ampliando mis conocimientos en áreas como:
+Siempre busco ampliar mis conocimientos en áreas como:
 
-- Arquitectura de computadores
-- Sistemas operativos Linux
-- Optimización de código
-- Diseño de software
-- Sistemas de tiempo real
-- Control avanzado
-- Inteligencia Artificial aplicada a ingeniería
+- Ciberseguridad.
+- Arquitectura de computadores.
+- Sistemas Operativos Linux.
+- Diseño de Software.
+- Sistemas en Tiempo Real.
+- Inteligencia Artificial aplicada a la Ingeniería.
+- Buenas prácticas de desarrollo.
+- Desarrollo de proyectos Open Source.
 
 ---
 
-# Buscando colaborar
+🤝 Buscando colaborar
 
-Estoy interesado en colaborar en proyectos relacionados con:
+Estoy interesado en colaborar en proyectos Open Source donde pueda aportar mis conocimientos, adquirir experiencia y aprender de otros desarrolladores.
+
+Me interesa participar en proyectos relacionados con:
 
 - Sistemas Embebidos
 - STM32
-- Electrónica
-- Automatización
+- Automatización Industrial
+- PLC
+- Desarrollo de Software
+- Aplicaciones para Windows
+- Aplicaciones Móviles
+- Bases de Datos
 - Python
-- C/C++
+- C / C++
 - MATLAB
-- Software Libre
-- Herramientas para ingeniería
-- Desarrollo de proyectos Open Source
+- Linux
+- Ciberseguridad
+- Herramientas para Ingeniería
 
-Si tienes un proyecto donde creas que mis conocimientos pueden aportar valor, estaré encantado de colaborar y seguir aprendiendo junto con el equipo.
-
----
-
-# Objetivo
-
-Mi objetivo es construir un portafolio donde cada repositorio represente una solución real, bien documentada y útil para estudiantes, investigadores y desarrolladores.
+Disfruto trabajar en equipo, compartir conocimientos y contribuir con código limpio, modular, documentado y orientado a buenas prácticas de ingeniería.
 
 ---
 
-⭐ Gracias por visitar mi perfil.
+🎯 Objetivo profesional
+
+Mi objetivo es construir un portafolio que refleje mi crecimiento como ingeniero, documentando proyectos completos que integren electrónica, software, automatización, bases de datos y análisis de datos.
+
+Aspiro a que este perfil sea un espacio donde estudiantes, desarrolladores e investigadores puedan encontrar proyectos útiles, aprender de ellos y colaborar en nuevas soluciones tecnológicas.
+
+---
+
+⭐ Gracias por visitar mi perfil
+
+Siempre estaré abierto a aprender nuevas tecnologías, colaborar en proyectos interesantes y compartir conocimientos con la comunidad.
